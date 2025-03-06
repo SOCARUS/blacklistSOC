@@ -3802,7 +3802,7 @@
 117.209.19.200
 120.85.117.172
 138.68.87.238
-5.10.250.243 # fail loging attemps SSL
-45.155.91.130 # fail loging attemps SSL
-183.82.0.230 # fail loging attemps SSL
-112.216.56.162 # fail loging attemps SSL
+5.10.250.243 # fail login attemps SSL
+45.155.91.130 # fail login attemps SSL
+183.82.0.230 # fail login attemps SSL
+112.216.56.162 # fail login attemps SSL
