@@ -3808,3 +3808,4 @@
 112.216.56.162 # fail login attemps SSL
 190.26.187.167 # Colombia
 45.148.10.241
+18.166.88.66 # Amazon
