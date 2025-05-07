@@ -209,7 +209,7 @@ scotiabank.capital
 www.interac-emt.com
 cancel-otp-request.ml
 bankid.no-nett-info.com
-tinyurl.com/2p83hch8
+tinyurl.com
 uberpromocode75off.ml
 employementreturn.info
 employementgov.online
@@ -1086,7 +1086,7 @@ onlinereviewsupport-update.com
 bankofireland-supportive.info
 rvnagencysecured.com
 rvnagencyclaim.com
-interacttransfer.xyz/deposit
+interacttransfer.xyz
 amazonrefund.xyz
 login.amazonrefund.xyz
 et-wireless-interacreminder.com
@@ -1094,7 +1094,7 @@ ref-ca.xyz
 bnz.access-restore-nz.com
 et-cad3301.live
 et-cad33011.live
-blockchat.xyz/deposit
+blockchat.xyz
 blockchat.xyz
 deptcalogin.com
 et-interace-transfer.com
@@ -1179,7 +1179,7 @@ transfersdetails.com
 interacviews.com
 bydylyejjdx.info
 helpagencyreview.com
-etr-mobcompensation.ca/deposit
+etr-mobcompensation.ca
 onlineaibsecurity-verification.com
 permanenttsb.io
 centralreviewnotif.com
@@ -2140,7 +2140,6 @@ et-ca9070.live
 interac.ucpalberta.info
 www.ucpalberta.info
 rebate-earnpoints.sbs
-bit.ly/4693intrac
 earnspoints-rebate
 www.icbc2gov.info
 interac.icbc2gov.info
@@ -2761,7 +2760,6 @@ open24-onlineaccservice.com
 intherac-etrans.ca
 sec-srvnow.com
 anpost.package-servicecentre.com
-bit.ly/3yopkcj
 rbcalerts.com
 login.rbcalerts.com
 signin.cdnsecurity-uber.com
@@ -3388,8 +3386,8 @@ int-eracad01.info
 www.verification.mybell.site
 myabservices.com
 anpost-ie-info.com
-payroii-account.com/secure
-payroii.ca/deposit
+payroii-account.com
+payroii.ca
 rbc-verification1.com
 etca7734.live
 etca77344.live
@@ -3485,7 +3483,7 @@ etrsfca1107.live
 etrsfca1109.live
 walletconnect1.info
 etca75511.live
-https://walletconnect1.info
+walletconnect1.info
 transfers-display.com
 transfersent.com
 etrsfca1154.live
@@ -3829,7 +3827,6 @@ anpost-customs-ie.info
 safebillcare.info
 safebillcenter.info
 bmo.online-restore1acc.com
-bit.ly/39xfuuv-se-cure08funds-can
 re-imbursment-can004.ca
 mobilefees-online.com
 td-validate2.com
@@ -8612,7 +8609,7 @@ et-ability.info
 serviceclaimrog.com
 secure.serviceclaimrog.com
 returntaxincome.online
-bendigoalerts1on1.live/aup
+bendigoalerts1on1.live
 deny-recentpay34918.com
 sm-intrac.info
 amazon-return.com
@@ -9346,7 +9343,6 @@ www.inte-rac.online
 autodeposit.online
 a5t3m.com
 et-lnterac-ab.a5t3m.com
-bit.ly/3ferflu
 log-co.info
 telus-refund.interact.ac
 auto-deposit.in
@@ -11308,7 +11304,7 @@ mygov-helpdesk-dashboard.com
 annual-returns.com
 bendigo-2248.net
 arc-tx.online
-tdy.es/gjutv
+tdy.es
 myacc-credit.online
 auth0002-refundcredit.live
 lnteract-et.co
@@ -12010,7 +12006,7 @@ amazon.fcpp.pw
 customs-anpost-parcel.com
 hse-covid-teskit.com
 paypost-customfee.com
-amazonau.me/com-au
+amazonau.me
 amazonau.live
 interatc.com
 anzauthorise.com
@@ -12386,7 +12382,6 @@ bellnotification.cloud
 app-verification-net.com
 fonds-caq-qc.top
 mobility-inc.site
-bit.ly/3vxb90b
 et11001-in.info
 10001t.com
 gov-annual.info
@@ -12747,7 +12742,7 @@ revolut-ie.support
 customs-parcelpayment.com
 www.redelivery.link
 bbvaesauth.com
-interac.la/info
+interac.la
 anzshield-au.ddns.net
 fi-op-net.in
 fi-op-net.com
@@ -15656,7 +15651,7 @@ etran-94722.info
 canada-postparcel.com
 offrestelus.onli
 myportal-update.com
-pskkarte.online/.well-known/pki-validation/291c03d17de11031d
+pskkarte.online
 virement.bnjjbdsfdxd4wsd.online
 virement.qplakensmxj.online
 supportkiwinzd.com
@@ -16170,7 +16165,7 @@ totta.cliente-pt-reveja.com
 reminder-inv.ink
 bell-resolution.ca
 anpost-service-packages.com
-tinyurl.com/538e8yb9
+tinyurl.com
 anpost-unpaid-customs.com
 payment-postcanada.com
 365online-support.com
@@ -16603,7 +16598,7 @@ totta.pt-pendente.com
 package-feeduty.com
 fido-rebate.site
 s-antander-on.line.pm
-www.s-antanderservice.line.pm/sa
+www.s-antanderservice.line.pm
 s-antanderservice.line.pm
 www.s-antanderservice.line.pm
 bell-transmits.ca
@@ -18888,7 +18883,7 @@ an.postdelays.com
 online-eflowtollpayment.com
 anpost-packagecustoms.com
 aibsecure-online.com
-an.postdelays.com/secure
+an.postdelays.com
 totta.pt-confirmar.com
 apay-renew.com
 renew-appleid-online.com
@@ -19053,7 +19048,7 @@ verify-myaccount-auth-gov.org
 myserviceab.com
 resolve-alberta.net
 westpaclogin.app
-secure4-anz-online.com/azu
+secure4-anz-online.com
 secure-interac.net
 canada-post-iink.site
 commbank.net-alert.com.au
@@ -20719,7 +20714,7 @@ secure-canadapost-tracking.com
 poste.ref3131.com
 securedroyalebank.ca
 etransfer.ltd
-94.158.247.121/capi
+94.158.247.121
 www-auth-bmo-mobile-ca.xyz
 expedite-myorder.com
 caref.pw
@@ -22850,7 +22845,6 @@ www-sc0tiabank-verified-link.xyz
 interac-etf.org
 reactivateuseridinfo.com
 netflalx.site
-bit.ly/netifliix-canada
 reactivateuserid.com
 mobilecharge.xyz
 profile-mybell.net
@@ -23026,8 +23020,8 @@ scbc.report
 idcba-valid.online
 applepay-wallet-secured.com
 idanz.online
-https://bnz-failed-attempt.com
-bnz-failed-attempt.com/bz
+bnz-failed-attempt.com
+bnz-failed-attempt.com
 nz.post-update-date.com
 bnz-failed-attempt.com
 hydroqc.icu
@@ -23374,7 +23368,7 @@ fastnet-secure.com
 applecare-check.com
 refunds1myato.com
 appleauwallet-check.com
-shorturl.at/cmup7
+shorturl.at
 applesecuredupdate.com
 nabcustomersupport.com
 apple-securityonline.com
@@ -23768,7 +23762,7 @@ secure-anz-auth-page.xyz
 mycommonwalth.live
 bendigobank-customerservice-support.com
 op-mobili-fi.com
-www.bendigobank-customerservice-support.com/bdg
+www.bendigobank-customerservice-support.com
 m8ta.cloud
 toll-e-flow.tech
 op-mobili-fi.net
@@ -23780,7 +23774,6 @@ eflow-tolls-paymentupdate.com
 www.apple-security-online.com
 apple-security-online.com
 eflow-paytoll-homepage.com
-www.bit.ly/deposit-qc-gouv
 e-flow-system-update.com
 eflowonline-support.com
 postnordshop.com
@@ -24370,7 +24363,7 @@ onlinetransfer-sent.services
 aus.post-locator.com
 dhl-reschedule2023.com
 scwb.work
-tinyurl.com/eum3rbhu
+tinyurl.com
 bcsrv.online
 tx2023caretrn.me
 servtxca23.me
@@ -25644,7 +25637,7 @@ bell-interac.et-sh.info
 em-con-augumenth.duckdns.org
 electricireland-update.com
 bellmobility-return.com
-https://bellmobility-return.com
+bellmobility-return.com
 eflowonline-supportservice.com
 bmo.center1notice.com
 cragov-interac.com
@@ -25805,7 +25798,7 @@ rbcroyabanking-login.com
 www.reviews-bell.top
 www.bill-bellpayment.top
 cafnds-intexcra.com
-interact.rf.gd/?i=1
+interact.rf.gd
 posti-cad334.ddns.net
 edirect-et.com
 deposit-cra.info
@@ -25884,7 +25877,7 @@ prprmz.info
 intrc-deposit.com
 crareb-groceryauth.com
 compteprime.com
-https://canada-caip.com
+canada-caip.com
 mygov-alert.info
 mygov-login.link
 bmo.clientid-login.com
@@ -26833,7 +26826,7 @@ canadarevnue-agency-emt.ca
 www.canadarevnue-agency-emt.ca
 serviceslivraison.com
 manage-kiwi.com
-hw8j.com/7gr
+hw8j.com
 op.auth-2fa.com
 relivraisonexpress.com
 expeditioncourrier-express.com
@@ -29319,7 +29312,7 @@ myfee-ausp.com
 my.income-return.com
 anzdigitalfraud.com
 bendi-myportal.com
-rb.gy/wt762
+rb.gy
 depositinterac.com
 op-fi-uc.com
 anzidtech.online
@@ -32386,8 +32379,8 @@ canada-revenue-agency.info
 capostage694882.com
 canada-royal-bankingcustomer-security-verification.info
 canadapost-reschedule04.com
-rebate.climateaction0823.info/?depositcode=40332
-deposit.climateaction0823.info/?depositcode=40331
+rebate.climateaction0823.info
+deposit.climateaction0823.info
 bancairevirqc-et.com
 capostresch.ca
 eract-in.com
@@ -32709,7 +32702,7 @@ royalbank.alertca-id.com
 apple.pt.line.pm
 oubliezpasvotredepot.ink
 securedepositrefund.com
-urlis.net/dhi.re-deiivery
+urlis.net
 oubliezpasdepot.ink
 bmo.notice-1app.com
 assurance-remboursement.com
@@ -33234,7 +33227,7 @@ er-sending.xyz
 log-in-portalreturn.info
 signincadassreturn.info
 my.net-ib-logon.com
-canadapostparcelservice.com/secure
+canadapostparcelservice.com
 canadapostparcelservice.com
 onlineaccess-cibcreset-help.com
 www.cards-netbank.info
@@ -33719,7 +33712,7 @@ et-interac-ca.com
 cba-addressbook.link
 portaildirectpayment.com
 activate-applepay.com
-https://verify-mycomm.com
+verify-mycomm.com
 verify-mycomm.com
 mycommauth.com
 httpunclaimedbenefits.org
@@ -37364,7 +37357,7 @@ bawagupdate.online
 app1e-pay.help-techsupport.com
 foundstrans-inter.info
 infoform.site
-bawagupdate.online/baw
+bawagupdate.online
 fundstrans-inter.info
 albertacarbontax.ca
 confirmme.online
@@ -38253,7 +38246,7 @@ rbc1-royl-cancellation-transac.info
 in31trac543serv.online
 deliveryreturn.info
 review-transfer-auto.click
-interac-bellmobility.info/secure
+interac-bellmobility.info
 interac-bellmobility.info
 solutionquebec.com
 enteracdailyref.online
@@ -38405,7 +38398,7 @@ postcanada-deliveryhelp.com
 canadapost-rescheduledelivery.com
 canada-post.online
 einteract-deposit.com
-canadapost-deliveryissues.online/cap
+canadapost-deliveryissues.online
 secure-interacsignon.com
 canadapost-deliveryissues.online
 gov-auinboxalert.com
@@ -39506,7 +39499,7 @@ depositca.pro
 rogers-aide.ca
 govserviceausecure.com
 selfscheduling-postcan.com
-rbc-onlinereactivate.info/secure
+rbc-onlinereactivate.info
 rbc-onlinereactivate.info
 apple-reactivate-wallet.com
 commbank-appauth-net.com
