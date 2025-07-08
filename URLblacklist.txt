@@ -436,4 +436,8 @@ http://r3yes535gjsi2puoz2bvssl3ewygcfgwoji6wdk3grj3baexn2hha2id.onion
 http://rs3icoalw6bdgedspnmt6vp2dzzuyqxtccezmta2g5mlyao64len7dyd.onion
 http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion
 http://c.pki.goog/r/r1.crl # IoC GuLoader
-hxxp://c.pki.goog/r/r1.crl # IoC GuLoader
+http://185.100.157.74/payload.exe # IoCs_BERTransomware
+http://169.254.169.254/latest/meta-data/ami-id # IoCs_BERTransomware
+wtwdv3ss4d637dka7iafl7737ucykei7pluzc7is3mgo2vl5nmq7eeid.onion # IoCs_BERTransomware
+bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion # IoCs_BERTransomware
+http://185.100.157.74/start.ps1 # IoCs_BERTransomware
