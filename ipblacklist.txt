@@ -3854,3 +3854,4 @@
 38.180.62.237
 138.84.41.184 # Starlink
 75.127.7.164 # IoC GuLoader
+185.100.157.74 # IoCs_BERTransomware
