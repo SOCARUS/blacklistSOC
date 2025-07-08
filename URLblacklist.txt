@@ -435,3 +435,5 @@ http://pauppf2nuoqxwwqqshaehbkj54debl7bppacfm5h6z6zjoiejifezhad.onion
 http://r3yes535gjsi2puoz2bvssl3ewygcfgwoji6wdk3grj3baexn2hha2id.onion
 http://rs3icoalw6bdgedspnmt6vp2dzzuyqxtccezmta2g5mlyao64len7dyd.onion
 http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion
+http://c.pki.goog/r/r1.crl # IoC GuLoader
+hxxp://c.pki.goog/r/r1.crl # IoC GuLoader
