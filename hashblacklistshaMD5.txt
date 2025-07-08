@@ -191,3 +191,12 @@ b28bb1c183383bef55bdf2d6e57b8863
 594804aa21887ee9d7b1b888f482d60c
 65a9575c50a96d04a3f649fe0f6b8ccd
 1bd52fa74393f79b5a481b4e45e983c6 # Ransomware Medusa
+71dc9540eb03f2ed4d1b6496b13fe839 # IoC BERTransomware
+00fdc504be1788231aa7b7d2d1335893 # IoC BERTransomware
+d1013bbaa2f151195d563b2b65126fa3 # IoC BERTransomware
+3e581aad42a2a9e080a4a676de42f015 # IoC BERTransomware
+edec051ce461d62fbbd3abf09534b731 # IoC BERTransomware
+5cab4fabffeb5903f684c936a90e0b46 # IoC BERTransomware
+003291d904b89142bada57a9db732ae7 # IoC BERTransomware
+29a2cc59a9ebd334103ce146bca38522 # IoC BERTransomware
+38ce06bf89b28ccebf5a78404eb3818e # IoC BERTransomware
