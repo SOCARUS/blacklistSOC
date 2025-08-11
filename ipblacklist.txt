@@ -3884,3 +3884,6 @@
 83.136.182.237
 96.9.125.147 # IoC ToolShell
 142.11.199.35 # ioC GreedySponge
+131.226.2.6 # IoC Warlock
+65.38.121.198
+188.130.206.168 # IoC Warlock
