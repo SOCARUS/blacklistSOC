@@ -200,3 +200,4 @@ edec051ce461d62fbbd3abf09534b731 # IoC BERTransomware
 003291d904b89142bada57a9db732ae7 # IoC BERTransomware
 29a2cc59a9ebd334103ce146bca38522 # IoC BERTransomware
 38ce06bf89b28ccebf5a78404eb3818e # IoC BERTransomware
+e84270afa3030b48dc9e0c53a35c65aa # IoC DEVMAN
