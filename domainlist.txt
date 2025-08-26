@@ -449,3 +449,9 @@ metritono.com
 masamadreartesanal.com # ioC greedySponge
 c34718cbb4c6.ngrok-free.app/file.ps1
 msupdate.updatemicfosoft.com
+testedark.writesthisblog.com # IoC BlindEagle
+drgost.duckdns.org
+asynpro.duckdns.org
+dxpam.duckans.org
+driveswindows.duckdns.org
+vm130833.goodtec.cloud # IoC BlindEagle
