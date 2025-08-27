@@ -447,7 +447,7 @@ trenipono.com
 kalichepa.com
 metritono.com
 masamadreartesanal.com # ioC greedySponge
-c34718cbb4c6.ngrok-free.app/file.ps1
+c34718cbb4c6.ngrok-free.app
 msupdate.updatemicfosoft.com
 testedark.writesthisblog.com # IoC BlindEagle
 drgost.duckdns.org
@@ -597,8 +597,6 @@ k2xhcuvhwh5cyua5vwa4xjeyvyfatzkrh5yn5kc5munvglzge4cod2ad.onion
 zv7u2tclxajbgae6ba4jkisnkfkts3lk7lxlypmuqktrk42qmo2c7hqd.onion
 secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion
 zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion
-t.me/Rhouse_News
-x.com/RHouseNews
 arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion
 5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion
 hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion # IoC Hellcat&Morpheu
