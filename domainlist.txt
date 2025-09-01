@@ -772,3 +772,5 @@ borderlessandbeyond.com
 brideofrove.com
 aempodcast.com # IoC Campana
 rejitto.com
+secfileshare.com # IoC_NordDragonScan
+kpuszkiev.com # IoC_NordDragonScan
