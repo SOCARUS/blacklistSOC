@@ -1025,3 +1025,5 @@ https://sprl.in/oaSEygn
 https://sprl.in/OjOMtSo # IoC Urutu
 https://daddychill.nl:1537/77950e0740519/udpne49n.du0i8 # Rhadamanthys1
 https://oshi.at/SdUr/TSWY.txt # Rhadamanthys1
+http://2bw7r32r5eshwk2h7uekj3lwzorxds2jyhyzqyilphid3r27x5hsf4yd.onion # IoC_Gunra_Ransomware
+http://jzbhtsuwysslrzi2n5is3gmzsyh6ayhm7jt3xowldhk7rej4dqqubxqd.onion/ # IoC_Gunra_Ransomware
