@@ -780,3 +780,13 @@ update.hobiter.com
 microsoft-beta.com
 zimbra-beta.info
 microsoftapimap.com # IoCs_CL-STA-0049
+authentication-safeguard.com # IoCs_LummaStealer2
+bigcatllover123.cfd
+distribution-berachain.net
+distribution-hyperfoundation.net
+overcoatpassably.shop
+plsverif.cfd
+web-security3.com
+codxefusion.top
+techspherxe.top
+farmingtzricks.top # IoCs_LummaStealer2
