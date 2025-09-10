@@ -860,3 +860,7 @@ slot.buyaiphoneonline.com
 smthwentwrong.com
 newgreenvibes.com
 digdonger.org # IoCs_Socgholish
+encrypthub.net # IoC_MSC_EvilTwin
+raw.githubusercontent.com
+skorikjr.github.io
+ciphercall.net # IoC_MSC_EvilTwin
