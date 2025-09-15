@@ -1201,3 +1201,5 @@ mail.catherinereynolds.info
 contaboserver.net # IoCs_Gradoreiro
 sfip.com # IoCs_Gradoreiro
 app-updater.app
+paste.rs
+0x0.st
