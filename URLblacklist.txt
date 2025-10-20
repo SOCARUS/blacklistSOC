@@ -1013,3 +1013,5 @@ https://skdjaznhajdhurkahfaproqudjahbshdjabdgajs.ngrok.io/dc32c5a4-cf17-4c9c-951
 http://skdjaznhajdhurkahfaproqudjahbshdjabdgajs.ngrok.io/InvoiceXpress.zip
 https://firebasestorage.googleapis.com/v0/b/fleet-source-449816-u2.firebasestorage.app/o/fire1009.html?alt=media&token=7a712a8d-e01f-4661-a5ef-3f557da39319
 http://www.wapforum.org/DTD/wml_1.1.xml
+http://chat.sinobi.us.org
+https://chat.sinobi.us.org
