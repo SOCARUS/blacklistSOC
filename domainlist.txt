@@ -1264,3 +1264,5 @@ teddysoft.cfd
 unknowntool.shop
 updservice.cfd
 usatrade.cfd
+ndibstersoft.com
+neremedysoft.com
