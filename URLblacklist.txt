@@ -1044,3 +1044,5 @@ http://45.42.160.55/
 http://172.86.113.102/Onedrive
 https://update-teams.live/teams
 http://172.86.113.102/localencode
+https://crixup.com
+http://instantservices1.ddnsguru.com
