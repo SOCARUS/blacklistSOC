@@ -1060,3 +1060,7 @@ https://walt-messaging-affairs-occurring.trycloudflare.com
 https://hebsbsbzjsjshduxbs.xyz/api/debug/event
 https://hebsbsbzjsjshduxbs.xyz/api/bot/heartbeat
 https://hebsbsbzjsjshduxbs.xyz/gate
+https://zipsage.pages.dev
+https://get-1o8.pages.dev/script.ps1
+https://get-1o8.pages.dev/script.js
+https://get-1o8.pages.dev/putty.exe
