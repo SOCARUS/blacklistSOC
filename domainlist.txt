@@ -1497,3 +1497,5 @@ ux.strainedeasily.icu
 breaksd.wifihot.icu
 walter.filloco.icu
 fast.raidher.icu
+onedrive.cv
+google.services.ug
