@@ -1592,3 +1592,9 @@ dist.runtimeconsole.cc
 id.binaryharbor.cc
 wss.infrastructurecore.cc
 id.exhumepacifier.cc
+makeverizyjar.info
+analysis-id-fmd.info
+analysis-id-lfg.info
+karmactive.com
+tzpx.courses
+zelpx.garden
