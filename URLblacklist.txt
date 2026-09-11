@@ -1146,3 +1146,7 @@ http://deadpoolstart.lovestoblog.com/arquivo_d8bd099bf2e64e0bbf252e7b31459507.tx
 http://deadpoolstart.lovestoblog.com/arquivo_ddca1f50d908428fa2aba69de178a2ae.txt
 http://deadpoolstart.lovestoblog.com/arquivo_e1502b7358874d6086b38a71038423c2.txt
 http://deadpoolstart.lovestoblog.com/arquivo_fb2497d842454850a250bf600d899709.txt
+https://skipraid.com/dsVGmQTrzX/default2
+https://stro7121.blob.core.windows.net/dpp1/config.py
+https://stro7121.blob.core.windows.net/dpp1/hostfxr.dll
+https://backup-ubt.s3.us-east-1.amazonaws.com/hostfxr.dll
