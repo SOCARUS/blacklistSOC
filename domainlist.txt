@@ -1906,3 +1906,5 @@ stro7121.blob.core.windows.net
 62.106.66.148
 api.telephoneip.net
 api.truesmart.org
+finger.linked4x.com
+skipraid.com
