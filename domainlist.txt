@@ -1902,3 +1902,7 @@ hnospascualfadon.com
 haliotisbar.com
 knowncontractor.com
 valtteri.net
+stro7121.blob.core.windows.net
+62.106.66.148
+api.telephoneip.net
+api.truesmart.org
