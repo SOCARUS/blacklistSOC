@@ -1909,3 +1909,5 @@ api.truesmart.org
 finger.linked4x.com
 skipraid.com
 archivogratuito.online
+gexwalltool.com
+x-wolverine.servebbs.com
