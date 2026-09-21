@@ -1926,3 +1926,4 @@ myconnectkey.com
 oskeyconnect.com
 validationsetupac.com
 portalsetuphub.com
+verify-cloud.digital
