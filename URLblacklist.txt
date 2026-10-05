@@ -1150,3 +1150,5 @@ https://skipraid.com/dsVGmQTrzX/default2
 https://stro7121.blob.core.windows.net/dpp1/config.py
 https://stro7121.blob.core.windows.net/dpp1/hostfxr.dll
 https://backup-ubt.s3.us-east-1.amazonaws.com/hostfxr.dll
+http://98.142.252.140
+https://98.142.252.140
