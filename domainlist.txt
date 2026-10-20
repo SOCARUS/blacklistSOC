@@ -2185,3 +2185,6 @@ eth.llamarpc.com
 rpc.ankr.com
 escapeai.live
 mikoblico.xyz
+scriptedgeapp.com
+transferrootway.com
+updaterdeskarc.com
